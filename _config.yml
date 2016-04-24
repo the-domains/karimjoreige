@@ -1,0 +1,28 @@
+name: karimjoreige
+favicon: null
+layout_spectrum: 0.7384665058925748
+typography_spectrum: 0.6978993241209537
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.18213734566234052
+  lightness: 0.9761857679113746
+  saturation: 0.5940805512946099
+  rhythmicContrast: 0.35850492329336703
+purpose: []
