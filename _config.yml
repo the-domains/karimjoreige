@@ -1,6 +1,6 @@
 name: karimjoreige
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.49568
 typography_spectrum: 0.49298
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.0625
+  brandStrength: 0.5
   lightness: 0.9761857679113746
   saturation: 1
   rhythmicContrast: 0.75
