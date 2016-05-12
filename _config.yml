@@ -1,28 +1,40 @@
-name: karimjoreige
 favicon: null
-layout_spectrum: 0.49568
-typography_spectrum: 0.35192
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: karimjoreige
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 0.5
+  rhythmicContrast: 0.75
   brandColors:
     - '#ffbb00'
     - '#feecb6'
     - '#c55800'
     - '#82010e'
     - '#d39349'
-  brandStrength: 0.5
   lightness: 0.9761857679113746
-  saturation: 1
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.35192
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
