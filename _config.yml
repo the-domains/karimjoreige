@@ -1,7 +1,8 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -12,29 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0
   brandStrength: 0
-  lightness: 0.6469534
+  rhythmicContrast: 0.75
   brandColors:
     - '#ffbb00'
     - '#feecb6'
     - '#c55800'
     - '#82010e'
     - '#d39349'
-  rhythmicContrast: 0.75
+  lightness: 0.6469534
 typography_spectrum: 0.4749104
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.5215054
-favicon: null
+layout_spectrum: 0.1648746
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: karimjoreige
